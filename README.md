@@ -211,5 +211,4 @@ npm run dev
 4. Set output directory: `dist`
 5. Add env variable `VITE_API_URL` pointing to backend URL
 
-## 📄 License
-MIT
+
